@@ -1,0 +1,9 @@
+c:\users\usuario.2ce3491ndk\documents\visual studio 2015\Projects\Service\Service\bin\Debug\Service.exe.config
+c:\users\usuario.2ce3491ndk\documents\visual studio 2015\Projects\Service\Service\bin\Debug\Service.exe
+c:\users\usuario.2ce3491ndk\documents\visual studio 2015\Projects\Service\Service\bin\Debug\Service.pdb
+c:\users\usuario.2ce3491ndk\documents\visual studio 2015\Projects\Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\users\usuario.2ce3491ndk\documents\visual studio 2015\Projects\Service\Service\obj\Debug\Service.Form1.resources
+c:\users\usuario.2ce3491ndk\documents\visual studio 2015\Projects\Service\Service\obj\Debug\Service.Properties.Resources.resources
+c:\users\usuario.2ce3491ndk\documents\visual studio 2015\Projects\Service\Service\obj\Debug\Service.csproj.GenerateResource.Cache
+c:\users\usuario.2ce3491ndk\documents\visual studio 2015\Projects\Service\Service\obj\Debug\Service.exe
+c:\users\usuario.2ce3491ndk\documents\visual studio 2015\Projects\Service\Service\obj\Debug\Service.pdb
